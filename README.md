@@ -1,21 +1,50 @@
-### Olá ! Eu sou a Bruna Borges 👋
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left"> My name is Bruna Borges and I'm a Systems Analyst from Rio de Janeiro, Brazil</p>
+
+###
 
 <div align="center">
-  <a href="https://github.com/brunaborgess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaborgess&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaborgess&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=brunaborgess" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=brunaborgess" height="150" alt="languages graph"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Bruna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>             
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left"> 📚 I'm currently learning HTML, CSS, JavaScript, React, TypeScript, C, C#, Python, T-SQL.<br>🎯 Goals: Working with programming languages and databases.<br>🎲 Fun fact: In my spare time I like to play sudoku, word search puzzles, exercise at the gym, listen to classical music and electronic music.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
 </div>
-  
-  ##
- 
-<div> 
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <div> 
   <a href="https://www.linkedin.com/in/brunacunhaborges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunaestudantedeti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5521965589706" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+
