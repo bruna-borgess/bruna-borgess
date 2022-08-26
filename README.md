@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> My name is Bruna Borges and I'm a Systems Analyst from Rio de Janeiro, Brazil</p>
+<p align="left"> My name is Bruna and I'm a Systems Analyst from Rio de Janeiro, Brazil</p>
 
 ###
 
